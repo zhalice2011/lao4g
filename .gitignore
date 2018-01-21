@@ -5,7 +5,7 @@ bin-release/
 [Oo]bj/ # FlashDevelop obj
 [Bb]in/ # FlashDevelop bin
 
-rosi/*
+rosi/
 
 # Other files and folders
 .settings/
